@@ -1,38 +1,31 @@
-📘 Project Overview
+Project Goal:
+To develop a digital maintenance management system for AIU facilities such as lifts and chillers, aiming to reduce breakdowns, improve efficiency, and ensure proper maintenance documentation.
 
-The AIU Maintenance Management System (AMMS) aims to digitalize and automate maintenance operations for AIU’s facilities — especially lifts, chillers, and other essential equipment — to improve safety, efficiency, and reporting accuracy.
+FYP 1 Objectives:
 
-🎯 FYP 1 Objectives
-Identify current issues in manual maintenance processes.
-Design the system architecture and workflow.
-Propose technologies and development tools.
-Prepare documentation and prototype for FYP 2 development.
-🧩 System Plan (for FYP 2)
+Study the current manual maintenance issues.
 
-The proposed system will include:
+Design the system architecture and database structure.
 
-User Roles: Supervisor, Staff, Admin.
-Core Modules: Maintenance Scheduling, Task Assignment, Reporting, and Notifications.
-Architecture:
-Frontend → React / HTML / CSS
-Backend → Node.js / Django
-Database → MySQL
-⚙️ Expected FYP 2 Deliverables
-Fully functional web-based system.
-User authentication and maintenance tracking.
-Automated email or in-app notifications.
-Report generation for maintenance activities.
-Secure database and user-friendly dashboard.
-👩‍💻 Team & Supervision
-Student: Reem Bekdash (AIU22102281)
-Teammate: Sidy Yaya Toure (AIU22102009)
+Identify suitable tools and technologies for implementation in FYP 2.
+
+Planned Components (for FYP 2):
+
+Frontend: React or HTML/CSS
+
+Backend: Node.js or Django
+
+Database: MySQL
+
+Main Features: Task scheduling, notifications, reporting, and role-based user management.
+
+Team:
+
+Reem Bekdash (AIU22102281)
+
+Sidy Yaya Toure (AIU22102009)
+
 Supervisor: Dr. Mozaherul Hoque
-Coordinator: Madam Nadiah Arsat
-📅 Project Phase
-Current Phase: FYP 1 (Proposal & Design)
-Next Phase: FYP 2 (System Development & Testing)
-Semester: Trimester 1, 2025/2026
-🏁 Summary
 
-This project is currently in its proposal stage (FYP 1), focusing on analysis and planning.
-The actual development of the system — coding, testing, and deployment — will take place in FYP 2.
+Current Status: Proposal & Design Stage (FYP 1)
+Next Phase: Development & Testing (FYP 2)
